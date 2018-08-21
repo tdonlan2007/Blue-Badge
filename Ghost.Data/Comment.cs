@@ -25,5 +25,3 @@ namespace Ghost.Data
             public DateTimeOffset? ModifiedUtc { get; set; }
         }
     }
-
-
