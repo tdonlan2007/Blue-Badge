@@ -10,12 +10,14 @@ namespace Ghost.Models
     {
        
         public string Content { get; set; }
-
         public string Postedby { get; set; }
+        public int CommentId { get; set; }
 
-        public override string ToString()
-        {
-            return base.ToString();
-        }
+        public override string ToString() => Content;
+
+        
+
+        
+       
     }
 }

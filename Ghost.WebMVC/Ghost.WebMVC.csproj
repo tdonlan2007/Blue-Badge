@@ -195,6 +195,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\CommentController.cs" />
     <Compile Include="Controllers\GhostController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -274,6 +275,14 @@
     <Content Include="Views\Shared\DisplayTemplates\DateTimeOffset.cshtml" />
     <Content Include="Views\Comment\Index.cshtml" />
     <Content Include="Views\Comment\Create.cshtml" />
+    <Content Include="Views\Comment\Details.cshtml" />
+    <Content Include="Views\Comment\Edit.cshtml" />
+    <Content Include="Views\Comment\Delete.cshtml" />
+    <Content Include="Views\Admin\Error.cshtml" />
+    <Content Include="Views\Admin\RoleCreate.cshtml" />
+    <Content Include="Views\Admin\RoleIndex.cshtml" />
+    <Content Include="Views\Admin\UserIndex.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -300,9 +309,9 @@
       <Project>{b21b1714-f5dd-472f-88f7-6f1b606cc851}</Project>
       <Name>Ghost.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Ghost.Services\Ghost.Services.csproj">
+    <ProjectReference Include="..\Ghost.Services\GhostServices.csproj">
       <Project>{df640b73-88be-4e4c-896d-f1b3da19b73b}</Project>
-      <Name>Ghost.Services</Name>
+      <Name>GhostServices</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

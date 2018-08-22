@@ -90,7 +90,7 @@ namespace Ghost.WebMVC.Controllers
             ModelState.AddModelError("", "Your ghost experience could not be updated.");
             return View(model);
         }
-
+        [Authorize(Roles = "Admin")]
         public ActionResult Delete(int id)
         {
             var svc = CreateGhostService();
@@ -98,7 +98,7 @@ namespace Ghost.WebMVC.Controllers
 
             return View(model);
         }
-
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ActionName("Delete")]
         [ValidateAntiForgeryToken]

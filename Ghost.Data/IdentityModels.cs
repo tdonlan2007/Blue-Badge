@@ -33,6 +33,8 @@ namespace Ghost.Data
         }
 
         public DbSet<Ghostt> Ghosts { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+        public object Comment { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

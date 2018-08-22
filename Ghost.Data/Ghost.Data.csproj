@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminUserCreate.cs" />
     <Compile Include="Comment.cs" />
     <Compile Include="Ghostt.cs" />
     <Compile Include="IdentityModels.cs" />
@@ -97,6 +98,10 @@
     <Compile Include="Migrations\201808201855592_8.Designer.cs">
       <DependentUpon>201808201855592_8.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201808211939570_10.cs" />
+    <Compile Include="Migrations\201808211939570_10.Designer.cs">
+      <DependentUpon>201808211939570_10.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -134,6 +139,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201808201855592_8.resx">
       <DependentUpon>201808201855592_8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808211939570_10.resx">
+      <DependentUpon>201808211939570_10.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

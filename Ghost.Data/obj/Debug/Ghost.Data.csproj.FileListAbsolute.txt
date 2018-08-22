@@ -25,3 +25,4 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.D
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._7.resources
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.CommentCreateadded.resources
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._8.resources
+C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._10.resources

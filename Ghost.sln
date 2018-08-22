@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghost.Models", "Ghost.Model
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghost.Contracts", "Ghost.Contracts\Ghost.Contracts.csproj", "{8FFEA47B-4F7A-4C37-97C0-521E08E8F474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghost.Services", "Ghost.Services\Ghost.Services.csproj", "{DF640B73-88BE-4E4C-896D-F1B3DA19B73B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostServices", "Ghost.Services\GhostServices.csproj", "{DF640B73-88BE-4E4C-896D-F1B3DA19B73B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghost.Tests", "Ghost.Tests\Ghost.Tests.csproj", "{F8A822C7-AB99-4E18-A7D6-5E7E4E0FA9A0}"
 EndProject
