@@ -23,7 +23,7 @@ namespace Ghost.WebMVC
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-darly.css",
                       "~/Content/site.css"));
         }
     }

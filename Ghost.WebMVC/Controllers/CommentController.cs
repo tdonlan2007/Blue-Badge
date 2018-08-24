@@ -31,6 +31,9 @@ namespace Ghost.WebMVC.Controllers
 
         public ActionResult Create()
         {
+            var service = CreateGhostService();
+            var ghost =  service.GetGhosts();
+            ViewBag.GhostID = new SelectList(ghost, "GhostID", "Title");
             return View();
         }
 
@@ -122,5 +125,14 @@ namespace Ghost.WebMVC.Controllers
 
             return RedirectToAction("Index");
         }
+
+        public GhostService CreateGhostService()
+        {
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            var service = new GhostService(userId);
+            return service;
+        }
     }
+
+
 }

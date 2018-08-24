@@ -7,13 +7,13 @@ namespace Ghost.Data.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.0-30225")]
-    public sealed partial class _3 : IMigrationMetadata
+    public sealed partial class addedpicture : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(_3));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(addedpicture));
         
         string IMigrationMetadata.Id
         {
-            get { return "201808181642420_3"; }
+            get { return "201808240036447_added picture"; }
         }
         
         string IMigrationMetadata.Source

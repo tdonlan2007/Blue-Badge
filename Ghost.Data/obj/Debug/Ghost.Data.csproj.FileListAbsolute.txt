@@ -16,13 +16,4 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.D
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.pdb
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.InitialCreate.resources
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.csproj.GenerateResource.cache
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.FirstMigration.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.Second.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._3.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._4.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._5.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._6.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._7.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.CommentCreateadded.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._8.resources
-C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._10.resources
+C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.addedpicture.resources

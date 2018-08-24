@@ -25,7 +25,9 @@ namespace Ghost.Services
                     OwnerId = _userId,
                     Content = model.Content,
                     CreatedUtc = DateTimeOffset.Now,
-                    Postedby = model.Postedby
+                    Postedby = model.Postedby,
+                    GhostId = model.GhostId
+                    
 
                 };
 

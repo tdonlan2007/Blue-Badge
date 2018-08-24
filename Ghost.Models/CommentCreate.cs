@@ -12,7 +12,8 @@ namespace Ghost.Models
         [Required]
         public string Content { get; set; }
         public string Postedby { get; set; }
-        
+        public int GhostId { get; set; }
+
 
         public override string ToString() => Content;
     }

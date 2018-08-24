@@ -8,12 +8,29 @@ namespace Ghost.Data.Migrations
         public override void Up()
         {
             CreateTable(
-                "dbo.Ghost",
+                "dbo.Comment",
+                c => new
+                    {
+                        CommentId = c.Int(nullable: false, identity: true),
+                        OwnerId = c.Guid(nullable: false),
+                        Content = c.String(nullable: false),
+                        Postedby = c.String(nullable: false),
+                        CreatedUtc = c.DateTimeOffset(nullable: false, precision: 7),
+                        ModifiedUtc = c.DateTimeOffset(precision: 7),
+                        GhostId = c.Int(nullable: false),
+                    })
+                .PrimaryKey(t => t.CommentId)
+                .ForeignKey("dbo.Ghostt", t => t.GhostId, cascadeDelete: true)
+                .Index(t => t.GhostId);
+            
+            CreateTable(
+                "dbo.Ghostt",
                 c => new
                     {
                         GhostId = c.Int(nullable: false, identity: true),
                         OwnerId = c.Guid(nullable: false),
-                        Description = c.String(nullable: false),
+                        Title = c.String(nullable: false),
+                        Content = c.String(nullable: false),
                         CreatedUtc = c.DateTimeOffset(nullable: false, precision: 7),
                         ModifiedUtc = c.DateTimeOffset(precision: 7),
                     })
@@ -97,16 +114,19 @@ namespace Ghost.Data.Migrations
             DropForeignKey("dbo.IdentityUserLogin", "ApplicationUser_Id", "dbo.ApplicationUser");
             DropForeignKey("dbo.IdentityUserClaim", "ApplicationUser_Id", "dbo.ApplicationUser");
             DropForeignKey("dbo.IdentityUserRole", "IdentityRole_Id", "dbo.IdentityRole");
+            DropForeignKey("dbo.Comment", "GhostId", "dbo.Ghostt");
             DropIndex("dbo.IdentityUserLogin", new[] { "ApplicationUser_Id" });
             DropIndex("dbo.IdentityUserClaim", new[] { "ApplicationUser_Id" });
             DropIndex("dbo.IdentityUserRole", new[] { "ApplicationUser_Id" });
             DropIndex("dbo.IdentityUserRole", new[] { "IdentityRole_Id" });
+            DropIndex("dbo.Comment", new[] { "GhostId" });
             DropTable("dbo.IdentityUserLogin");
             DropTable("dbo.IdentityUserClaim");
             DropTable("dbo.ApplicationUser");
             DropTable("dbo.IdentityUserRole");
             DropTable("dbo.IdentityRole");
-            DropTable("dbo.Ghost");
+            DropTable("dbo.Ghostt");
+            DropTable("dbo.Comment");
         }
     }
 }
