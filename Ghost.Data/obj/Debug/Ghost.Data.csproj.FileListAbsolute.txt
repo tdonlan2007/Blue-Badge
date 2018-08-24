@@ -17,3 +17,22 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.D
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.InitialCreate.resources
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.csproj.GenerateResource.cache
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.addedpicture.resources
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Ghost.Data.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Ghost.Data.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Ghost.Data.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.csprojAssemblyReference.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.Migrations.InitialCreate.resources
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.Migrations.addedpicture.resources
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.csproj.GenerateResource.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.csproj.CoreCompileInputs.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.csproj.CopyComplete
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Data\obj\Debug\Ghost.Data.pdb

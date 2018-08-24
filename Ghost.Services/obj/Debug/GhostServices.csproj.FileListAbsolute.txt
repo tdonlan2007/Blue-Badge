@@ -23,3 +23,28 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Services\obj\Debug\Gho
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Services\obj\Debug\GhostServices.csproj.CopyComplete
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Services\obj\Debug\Ghost.Services.dll
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Services\obj\Debug\Ghost.Services.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Services.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Services.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Services.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Contracts.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Data.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Models.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Contracts.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Contracts.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Data.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Data.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Models.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Ghost.Models.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\obj\Debug\GhostServices.csprojAssemblyReference.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\obj\Debug\GhostServices.csproj.CoreCompileInputs.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\obj\Debug\GhostServices.csproj.CopyComplete
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\obj\Debug\Ghost.Services.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Services\obj\Debug\Ghost.Services.pdb

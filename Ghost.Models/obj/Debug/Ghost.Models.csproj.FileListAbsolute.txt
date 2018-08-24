@@ -14,3 +14,19 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Models\obj\Debug\Ghost
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Models\obj\Debug\Ghost.Models.csproj.CopyComplete
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Models\obj\Debug\Ghost.Models.dll
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Models\obj\Debug\Ghost.Models.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Ghost.Models.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Ghost.Models.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Ghost.Models.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\obj\Debug\Ghost.Models.csprojAssemblyReference.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\obj\Debug\Ghost.Models.csproj.CoreCompileInputs.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\obj\Debug\Ghost.Models.csproj.CopyComplete
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\obj\Debug\Ghost.Models.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Models\obj\Debug\Ghost.Models.pdb

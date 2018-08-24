@@ -20,3 +20,25 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Contracts\bin\Debug\Gh
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Contracts\bin\Debug\Ghost.Data.dll.config
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Contracts\bin\Debug\Ghost.Models.pdb
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Contracts\bin\Debug\Ghost.Models.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Contracts.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Contracts.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Contracts.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Data.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Models.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Data.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Data.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Models.pdb
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Ghost.Models.dll.config
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\obj\Debug\Ghost.Contracts.csprojAssemblyReference.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\obj\Debug\Ghost.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\obj\Debug\Ghost.Contracts.csproj.CopyComplete
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\obj\Debug\Ghost.Contracts.dll
+C:\Users\Love\tim's\Blue-Badge\Ghost.Contracts\obj\Debug\Ghost.Contracts.pdb
