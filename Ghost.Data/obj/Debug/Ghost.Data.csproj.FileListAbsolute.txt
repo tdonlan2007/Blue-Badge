@@ -17,3 +17,4 @@ C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.D
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.InitialCreate.resources
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.csproj.GenerateResource.cache
 C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations.addedpicture.resources
+C:\Users\Tim Donlan JR\source\repos\Challenge\Ghost\Ghost.Data\obj\Debug\Ghost.Data.Migrations._11.resources

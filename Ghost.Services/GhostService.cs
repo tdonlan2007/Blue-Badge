@@ -42,7 +42,7 @@ public class GhostService : IGhostService
             var query =
                 ctx
                     .Ghosts
-                    .Where(e => e.OwnerId == _userId)
+                   // .Where(e => e.OwnerId == _userId)
                     .Select(
                         e =>
                             new GhostListItem
@@ -65,7 +65,7 @@ public class GhostService : IGhostService
             var entity =
                 ctx
                     .Ghosts
-                    .Single(e => e.GhostId == ghostId && e.OwnerId == _userId);
+                    .Single(e => e.GhostId == ghostId );
             return
                 new GhostDetail
                 {
@@ -101,7 +101,7 @@ public class GhostService : IGhostService
             var entity =
                 ctx
                     .Ghosts
-                    .Single(e => e.GhostId == GhostId && e.OwnerId == _userId);
+                    .Single(e => e.GhostId == GhostId );
 
             ctx.Ghosts.Remove(entity);
 

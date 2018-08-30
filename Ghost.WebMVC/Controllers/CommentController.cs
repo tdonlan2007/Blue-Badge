@@ -121,7 +121,7 @@ namespace Ghost.WebMVC.Controllers
 
             service.DeleteComment(id);
 
-            TempData["SaveResult"] = "Your note was deleted";
+            TempData["SaveResult"] = "Your Comment was deleted";
 
             return RedirectToAction("Index");
         }
